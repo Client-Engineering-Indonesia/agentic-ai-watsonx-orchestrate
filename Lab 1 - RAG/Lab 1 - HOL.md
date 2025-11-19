@@ -47,7 +47,16 @@
    <img width="3454" height="1914" alt="image" src="https://github.com/user-attachments/assets/3e1c9eea-f6a0-4c25-8edd-4bf7ef012e6f" />
 
 10. After completing all the above steps, your knowledge source will be added and will appear as shown in the image below.
-    <img width="3454" height="1912" alt="image" src="https://github.com/user-attachments/assets/afe92666-d35c-4c04-83bd-680cf5dc2bce" />
+
+   <img width="3454" height="1912" alt="image" src="https://github.com/user-attachments/assets/afe92666-d35c-4c04-83bd-680cf5dc2bce" />
+
+12. Ask questions that included in the documents such as 
+   ```
+    What are the products of ABC Motors.
+   ```
+   <img width="1507" height="806" alt="image" src="https://github.com/user-attachments/assets/98410ec3-7fff-476d-a0fa-1df8874fef80" />
+
+
 
 
 
