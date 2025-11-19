@@ -1,3 +1,5 @@
+# Lab 2 - Integrating External Agent in Watsonx Orchestrate
+
 ## Create a watsonx.ai Agent
 
 We will create a Comparison Agent in watsonx.ai's Agent Lab as part of this setup:
@@ -175,4 +177,5 @@ Follow the steps above, then try interacting with the use case using these sampl
 
 
 *Due to the randomness nature of Large Language Models, the output may not be exactly macth the output shown above*
+
 
