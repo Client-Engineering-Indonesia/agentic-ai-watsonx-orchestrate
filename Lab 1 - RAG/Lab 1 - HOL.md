@@ -1,4 +1,4 @@
-# Simple RAG - Chat with Documents
+# Lab 1 - Building Simple RAG in Watsonx Orchestrate
 
 ## Create an Orchestrate Agent
 
@@ -55,6 +55,7 @@
     What are the products of ABC Motors.
    ```
    <img width="1507" height="806" alt="image" src="https://github.com/user-attachments/assets/98410ec3-7fff-476d-a0fa-1df8874fef80" />
+
 
 
 
