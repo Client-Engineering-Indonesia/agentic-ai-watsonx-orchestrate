@@ -1,5 +1,4 @@
-<img width="3384" height="1594" alt="image" src="https://github.com/user-attachments/assets/c9a45070-c9eb-4017-923d-49704653f6b5" /># Lab 3B - Adding Custom Tools
-
+Lab 3B - 
 ## Deployed Custom Tools 
 
 We will prepare the following five tools:
@@ -430,3 +429,4 @@ To recap, you have used watsonx Orchestrate no-code functionality to develop a *
 
 Next, you augrmented the **Financial Analyst Agent** capabilities by developing two other agents, the **Web Search Agent** and the **Financial API Agent** which are empowered with tools to execute web search queries and also retrieve information from finance APIs and glossary definition tools.
 These tools and agents help increase the power of the **Financial Analyst Agent** in providing timely research results to the analysts.
+
