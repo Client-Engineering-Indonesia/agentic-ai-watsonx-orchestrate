@@ -1,4 +1,4 @@
-# Lab 3 - Adding Custom API 
+# Lab 3A - Adding Custom API 
 
 ## Financial Analyst Agent Creation
 
@@ -102,6 +102,7 @@ At this time, it is worthwhile taking a moment to reflect on what you've develop
 Reviewing the architecture, you've completed the part of the agentic solution which involved creating the Financial Analyst agent and empowering it with a knowledge base (annotated with red rectangles in the figure below). In the next section, you will work through the process of creating the **Financial API Agent** and the **Web Search Agent** which you will then add as collaborator agents to the **Financial Analyst Agent**.
 
 <img width="1586" height="878" alt="image" src="https://github.com/user-attachments/assets/bbd31cb0-c245-42ae-b25f-2464a7f17cbb" />
+
 
 
 
